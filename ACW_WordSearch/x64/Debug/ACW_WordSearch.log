@@ -1,0 +1,12 @@
+﻿  Main.cpp
+  WordSearch.cpp
+  Generating Code...
+c:\users\callum\documents\uni\08143 advanced programming\acw_wordsearch\wordsearch.cpp(222): warning C4715: 'WordSearch::sRightCheck': not all control paths return a value
+c:\users\callum\documents\uni\08143 advanced programming\acw_wordsearch\wordsearch.cpp(285): warning C4715: 'WordSearch::sRightDownCheck': not all control paths return a value
+c:\users\callum\documents\uni\08143 advanced programming\acw_wordsearch\wordsearch.cpp(318): warning C4715: 'WordSearch::sRightUpCheck': not all control paths return a value
+c:\users\callum\documents\uni\08143 advanced programming\acw_wordsearch\wordsearch.cpp(252): warning C4715: 'WordSearch::sLeftCheck': not all control paths return a value
+c:\users\callum\documents\uni\08143 advanced programming\acw_wordsearch\wordsearch.cpp(351): warning C4715: 'WordSearch::sLeftDownCheck': not all control paths return a value
+c:\users\callum\documents\uni\08143 advanced programming\acw_wordsearch\wordsearch.cpp(384): warning C4715: 'WordSearch::sLeftUpCheck': not all control paths return a value
+c:\users\callum\documents\uni\08143 advanced programming\acw_wordsearch\wordsearch.cpp(413): warning C4715: 'WordSearch::sDownCheck': not all control paths return a value
+c:\users\callum\documents\uni\08143 advanced programming\acw_wordsearch\wordsearch.cpp(443): warning C4715: 'WordSearch::sUpCheck': not all control paths return a value
+  ACW_WordSearch.vcxproj -> C:\Users\Callum\Documents\Uni\08143 Advanced Programming\x64\Debug\ACW_WordSearch.exe
